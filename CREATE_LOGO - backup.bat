@@ -4,7 +4,7 @@ echo.Lenovo Vibe K5 PLUS Splash Image Maker
 echo.
 echo.(This is for K5 PLUS only)
 echo.
-echo.	By **Gokul NC**
+echo.	By **********
 echo.---------------------------------------------------
 echo.
 echo.
